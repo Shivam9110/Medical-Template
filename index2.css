@@ -1,0 +1,88 @@
+/* #name{
+    
+    width: 40%;
+    border:2px solid blue;
+    border-radius: 5px;
+}
+
+#cars{
+    width: 40%;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+#items{
+    width: 100%;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.delivery{
+    margin-right: 55%;
+}
+.weight{
+    margin-right: 25%;
+    
+    
+}
+#texts{
+    width: 43%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+.shipment{
+    color:red;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+#Date{
+    width: 40%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+#text{
+    width: 100%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+#numbers{
+    width: 45%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+#textss{
+    width: 40%;
+     border:2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+#state{
+    width: 45%;
+    border:2px solid blue;
+    border-radius: 5px;
+    outline: none;
+}
+#submits{
+    margin-left: 460px;
+    border-radius: 5px;
+    color: red;
+    width: 10%;
+    border:2px solid yellow;
+    font-size: x-large;
+    background-color:beige;
+    
+}
+#submits:hover{
+    background-color: blue;
+}
+
+.inpt_class{
+    width: 100%;
+    
+}
+.kg_class{
+    margin-left: -171px;
+    
+} */
